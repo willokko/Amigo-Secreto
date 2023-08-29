@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+#titulo {
+    font-size: 24px;
+    margin-bottom: 20px; 
+}
+
+#duplasContainer {
+    text-align: center;
+}
+
+.dupla-box {
+    margin: 10px;
+    font-size: 18px;
+}
