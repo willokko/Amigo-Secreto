@@ -8,3 +8,4 @@ cadastrarButton.addEventListener("click", function() {
         
     };
 })
+
